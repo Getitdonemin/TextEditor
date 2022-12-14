@@ -40,6 +40,6 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-## URL of deployed application: 
+## URL of deployed application: https://minstexteditor.herokuapp.com/
 
 ## URL of Github repository: https://github.com/Getitdonemin/TextEditor
